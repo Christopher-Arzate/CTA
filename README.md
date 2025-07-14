@@ -17,4 +17,6 @@ This document will have both SQL files used to help explore this data and the ta
 
 ## Video of the Dashboard
 
-## Files and Static Dashboard Image
+## Static Dashboard Image
+
+## Files
