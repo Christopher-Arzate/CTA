@@ -19,7 +19,7 @@ This document will have both SQL files used to help explore this data and the ta
 
 ## Static Dashboard Image
 
-![image](Images/Quote.png) 
+![image](CTA_Dashboard.png) 
 
 
 ## Files
