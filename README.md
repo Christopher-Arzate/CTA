@@ -23,4 +23,5 @@ This document will have both SQL files used to help explore this data and the ta
 
 ## Files
 - **[General SQL Analysis File](https://github.com/Christopher-Arzate/CTA/blob/main/CTA.sql)**: 
-- **[Station Color SQL Analysis File](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_boarding_num.sql)**:  
+- **[Station Color SQL Analysis File](https://github.com/Christopher-Arzate/CTA/blob/main/CTA.sql)**:
+
