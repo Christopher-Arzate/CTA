@@ -161,7 +161,17 @@ SELECT *,
 FROM STATION_TABLE
 
 
-SELECT *
+CREATE TABLE Station_rider AS
+	SELECT *
+	CASE 
+		WHEN day_of_week = 0 Then 'Sunday'
+		WHEN day_of_week = 1 Then 'Monday'
+		WHEN day_of_week = 2 Then 'Tuesday'
+		WHEN day_of_week = 3 Then 'Wednesday'
+		WHEN day_of_week = 4 Then 'Thursday'
+		WHEN day_of_week = 5 Then 'Friday'
+		ELSE AS 'Saturday' 
+	END AS days
 FROM Station_rider_date
 
 SELECT
