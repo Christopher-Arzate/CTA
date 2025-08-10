@@ -24,6 +24,12 @@ This document will have both SQL files used to help explore this data and the ta
 
 ![image](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_Dashboard.png) 
 
+
+## Video of Dashboard
+
+https://github.com/user-attachments/assets/91abaf84-3263-455d-bad9-10b801fca0ee
+
+
 ## Files
 - **[General SQL Analysis File](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_boarding_num.sql)**: 
 - **[Station Color SQL Analysis File](https://github.com/Christopher-Arzate/CTA/blob/main/CTA.sql)**:
