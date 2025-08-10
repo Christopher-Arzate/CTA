@@ -19,16 +19,14 @@ This project required me to learn how to run and manage a PostgreSQL server, and
 
 This document will have both SQL files used to help explore this data and the tables used for the dashboard. 
 
-
-## Static Dashboard Image
-
-![image](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_Dashboard.png) 
-
-
 ## Video of Dashboard
 
 https://github.com/user-attachments/assets/91abaf84-3263-455d-bad9-10b801fca0ee
 
+
+## Static Dashboard Image
+
+![image](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_Dashboard.png) 
 
 ## Files
 - **[General SQL Analysis File](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_boarding_num.sql)**: 
