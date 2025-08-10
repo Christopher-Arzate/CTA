@@ -22,7 +22,7 @@ This document will have both SQL files used to help explore this data and the ta
 
 ## Static Dashboard Image
 
-![image](CTA_Dashboard.png) 
+![image](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_Dashboard.png) 
 
 ## Files
 - **[General SQL Analysis File](https://github.com/Christopher-Arzate/CTA/blob/main/CTA_boarding_num.sql)**: 
